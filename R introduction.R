@@ -6,7 +6,7 @@
 # To output numbers
 5
 10
-5 10 20 # will raise error
+5 10 20 # this will raise error
 
 # Variable
 
